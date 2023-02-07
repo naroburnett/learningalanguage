@@ -1,3 +1,7 @@
+|[Home](/README.md)| [I: Introduction](/Introduction.md)| [II: Picking out a Language](/Picking%20out%20a%20Language.md)| [III: Picking the Right Software](/Picking%20the%20Right%20Software.md)| [IV: Get to the Books](/Get%20to%20the%20Books.md)| [V: Learn the Syntax](/Learn%20the%20Syntax.md)| [VI: Take Some Test Flights](/Take%20Some%20Test%20Flights.md)| [VII: Get Ready for Take Off](/Get%20Ready%20for%20Take%20Off.md)| [VIII: Mission is a Go](/Mission%20is%20a%20Go.md)|
+|---|---|---|---|---|---|---|---|---|
+| |   | <img src="Assests\Images\menu arrow.png" width="50%" height="auto"/>   |   |   |   |   ||
+
 # Introduction
 So you picked a project or at least have a rough idea on what you want to do! Amazing job! Now if you haven't already you need to pick a programming language to work with! Picking a language to learn is an exciting and important first step in your journey, and sets the foundation for the rest of your learning experience. By choosing the right language for your needs and goals, you'll be able to focus your efforts and make the most out of your time and resources. Whether you're interested in building websites, creating apps, or developing software, there's a language that's perfect for you. And the great thing is, once you've mastered one language, it becomes much easier to learn others. So embrace the opportunity, pick a language, and get ready to dive in!
 

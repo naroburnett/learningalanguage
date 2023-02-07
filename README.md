@@ -1,3 +1,6 @@
+|[Home](/README.md)| [I: Introduction](/Introduction.md)| [II: Picking out a Language](/Picking%20out%20a%20Language.md)| [III: Picking the Right Software](/Picking%20the%20Right%20Software.md)| [IV: Get to the Books](/Get%20to%20the%20Books.md)| [V: Learn the Syntax](/Learn%20the%20Syntax.md)| [VI: Take Some Test Flights](/Take%20Some%20Test%20Flights.md)| [VII: Get Ready for Take Off](/Get%20Ready%20for%20Take%20Off.md)| [VIII: Mission is a Go](/Mission%20is%20a%20Go.md)|
+|---|---|---|---|---|---|---|---|---|
+| <img src="Assests\Images\menu arrow.png" width="50%" height="auto"/>  |   |   |   |   |   |   ||
 # Overview
 
 Welcome to your journey of learning a new coding language! Learning a new programming language can be an exciting and fulfilling experience, and is a great way to expand your skill set and improve your career prospects. The key to success is taking things one step at a time and approaching the process with a positive attitude. With a step-by-step approach, you'll be able to build your confidence and make steady progress towards your goal of mastering a new coding language. So, let's get started!
@@ -7,6 +10,20 @@ The purpose of this project is to provide a comprehensive and accessible guide t
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
+
+# Table of Contents
+
+- [I: Introduction](/Introduction.md)
+- [II: Picking out a Language](/Picking%20out%20a%20Language.md)
+- [III: Picking the Right Software](/Picking%20the%20Right%20Software.md)
+- [IV: Get to the Books](/Get%20to%20the%20Books.md)
+- [V: Learn the Syntax](/Learn%20the%20Syntax.md)
+- [VI: Take Some Test Flights](/Take%20Some%20Test%20Flights.md)
+- [VII: Get Ready for Take Off](/Get%20Ready%20for%20Take%20Off.md)
+- [VIII: Mission is a Go](/Mission%20is%20a%20Go.md)
+
+
+
 
 # Development Environment
 

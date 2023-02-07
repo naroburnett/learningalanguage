@@ -1,4 +1,6 @@
-
+|[Home](/README.md)| [I: Introduction](/Introduction.md)| [II: Picking out a Language](/Picking%20out%20a%20Language.md)| [III: Picking the Right Software](/Picking%20the%20Right%20Software.md)| [IV: Get to the Books](/Get%20to%20the%20Books.md)| [V: Learn the Syntax](/Learn%20the%20Syntax.md)| [VI: Take Some Test Flights](/Take%20Some%20Test%20Flights.md)| [VII: Get Ready for Take Off](/Get%20Ready%20for%20Take%20Off.md)| [VIII: Mission is a Go](/Mission%20is%20a%20Go.md)|
+|---|---|---|---|---|---|---|---|---|
+|| <img src="Assests\Images\menu arrow.png" width="50%" height="auto"/>  |   |   |   |   |   |   |
 
 # Introduction
 Congratulations on taking the first step towards becoming fluent in a programming language! Don't worry if you are overwhelmed, that is natural and normal. You have to remember that much like learning any other language it takes time, effort, and practice. So, lets take things one step at a time.

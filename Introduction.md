@@ -125,5 +125,9 @@ The planning process will set the tone for your entire project. If it is scatter
 
 Remember you are simply creating a plan! You are NOT predicting the future. You may need to adjust your plan in the future and that is okay! Creating a plan is to point you in the right direction anf help you know where to begin and where you want to hopefully end. 
 
-
+# Chapter Check List
+1. Brainstorm Ideas (Pros and Cons)
+2. Funnel Ideas to 3 
+3. Pick a Project
+4. Set some SMART Goals
 

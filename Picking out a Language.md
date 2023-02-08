@@ -38,3 +38,9 @@ It is encouraged that you do some of your own research and look into maybe not j
 4. C++: C++ is a high-level, statically-typed, object-oriented programming language that is widely used in developing operating systems, games, and other high-performance applications. It is known for its performance, low-level access, and compatibility with other languages.
 
 5. C#: C# is a high-level, statically-typed, object-oriented programming language that is widely used in developing Windows desktop applications, games, and mobile applications. It is known for its simplicity, elegance, and its integration with the .NET framework.
+
+
+# Chapter Check List
+1. Do some Research
+2. Pick a Programming Language
+

@@ -34,5 +34,19 @@ The purpose of this project is to provide a comprehensive and accessible guide t
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [w3schools](https://www.w3schools.com/)
+* [Indeed](https://uk.indeed.com/career-advice/career-development/how-to-plan-a-project)
+* [linkedin](https://www.linkedin.com/pulse/5-project-planning-tips-help-you-meet-your-goals-/)
+* [wework](https://www.wework.com/ideas/professional-development/creativity-culture/effective-brainstorming-techniques)
+* [wrike](https://www.wrike.com/project-management-guide/faq/what-is-the-difference-between-goals-and-objectives-in-project-management/)
+* [Trello](https://trello.com/guide/project-management)
+* [PMI](https://www.pmi.org/learning/fundamentals)
+* [Coursera](https://www.coursera.org/courses/project-planning-and-management)
+* [Zapier](https://zapier.com/learn/project-management/setting-achieving-goals/)
+* [Buffer](https://buffer.com/resources/goal-setting/)
+* [Atlassian](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
+* []()
+* []()
+* []()
+* []()
+

@@ -53,3 +53,11 @@ Remember, the right IDE will vary depending on your personal needs and preferenc
 Not all languages are created equal! Some languages if not most require to install packages to run on your IDE and computer. Most IDE's have setup options when you first set them up to also install various languages, but you should ALWAYS check and see if you have all the proper libraries and packages installed on your computer for the language you are wanting to work with, otherwise good luck trying to do your project. 
 
 A good place to find instructions on setting up your IDE and computer for your respective language is online. Most if not all languages have decent documentation that takes you through the initial setup/install process. There are also hundreds of videos and walkthrough guides available through places like youtube and w3schools.
+
+# Chapter Check List
+1. Do some research
+2. Pick an IDE and Repository
+3. Install the IDE and Repository
+4. Install the appropriate Language Libraries
+5. Watch some tutorial videos on your tools. Get familiar with them.
+
